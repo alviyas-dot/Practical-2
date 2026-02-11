@@ -1,12 +1,15 @@
 <html>
-<title>PRACTICAL 2</title>
+<title>PRACTICAL 02</title>
 <head>
-</head>
-<body bg-color "pink">
-<h3><p><b> Paragraph tag</b> is a fundamental element<u>used to define a paragraph of text on a web page.</u
->It is a block level element that helps structure control into readable
-chunks,<br>impressing readability and accessibility</i>for users.
-<h4>CS25011</h4>
-<h5>ALVIYA SHEIKH</h5>
+         </head>
+<body bgcolor="Pink">
+         <p> <b>Paragraph tag </b>is a fundamental element <u>used to define a paragraph of text</u> on a web page.
+             It is a block level element that helps structure control into readable
+             chunks,impressing readability and accessibility for users.
+           </p>
+     <h3 align = "right">ALVIYA SHEIKH
+<br>
+USN: CS25011
+     </h3>
 </body>
 </html>
